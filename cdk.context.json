@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=416703003071:region=eu-west-1": [
+    "eu-west-1a",
+    "eu-west-1b",
+    "eu-west-1c"
+  ],
+  "hosted-zone:account=416703003071:domainName=live-conference-demo.com:region=eu-west-1": {
+    "Id": "/hostedzone/Z05983393B8WFWPIFXP4K",
+    "Name": "live-conference-demo.com."
+  }
+}
